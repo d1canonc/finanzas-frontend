@@ -1,0 +1,14 @@
+{
+  "name": "Finanzas Personal",
+  "short_name": "Finanzas",
+  "description": "Gestión inteligente de tarjeta y ahorros con IA",
+  "start_url": "/app",
+  "display": "standalone",
+  "background_color": "#090910",
+  "theme_color": "#6b6bff",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
